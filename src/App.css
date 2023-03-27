@@ -1,0 +1,24 @@
+.App{
+margin: 20px 50px;
+text-align: center;
+}
+
+#search-select{
+  display: flex;
+  justify-content: space-between;
+}
+#table{
+  width: 100%;
+  justify-items: auto;
+}
+thead{
+  color: azure;
+  background-color: rgb(0, 0, 77);
+  height: 40px;
+}
+select{
+  width: 220px;
+}
+tr{
+  height: 40px;
+}
