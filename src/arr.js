@@ -24,6 +24,11 @@ let list=[
         name:"lamborghini",
         country:"usa",
         type:"car"
+    },
+    {
+        name:"lamborghini",
+        country:"usa",
+        type:"car"
     }
 ];
 
